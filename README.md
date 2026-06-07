@@ -7,7 +7,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/sivamani-repo">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=9d8fcc&center=true&vCenter=true&random=false&width=750&height=80&lines=Competitive+Programmer+%F0%9F%8F%86;Building+AI+that+matters+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%94%A5;MERN+%7C+ML+%7C+System+Design+%E2%9A%A1;From+Hyderabad+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=9d8fcc&center=true&vCenter=true&random=false&width=750&height=80&lines=Competitive+Programmer+%F0%9F%8F%86;Building+projects+that+matters+%F0%9F%A4%96;Open+Source+Enthusiast+%F0%9F%94%A5;MERN+%7C+ML+%7C+System+Design+%E2%9A%A1;From+Hyderabad+with+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/>
