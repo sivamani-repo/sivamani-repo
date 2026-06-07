@@ -29,31 +29,28 @@
 ---
 
 ## 👨‍💻 About Me
+<table>
+<tr>
+<td width="40%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</td>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding GIF">
-
-</div>
+<td width="60%">
 
 ```javascript
 const sivamani = {
-    pronouns: "He/Him",
-    location: "Hyderabad, India 🇮🇳",
-    currentFocus: "Competitive Programming & AI 🚀",
+    role: "Competitive Programmer",
+    focus: "AI & Software Engineering",
     learning: ["DSA", "Machine Learning", "System Design"],
-    interests: ["Problem Solving", "Software Development", "AI/ML"],
-    motto: "Building AI, software, and my future.",
-
-    lifeLoop() {
-        while (true) {
-            learn();
-            code();
-            build();
-            repeat();
-        }
-    }
+    interests: ["Problem Solving", "AI/ML", "Software Development"],
+    motto: "Building AI, software, and my future."
 };
+```
+
+</td>
+</tr>
+</table>
+
 ```
 ---
 
