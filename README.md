@@ -52,24 +52,18 @@ const sivamani = {
 </table>
 
 ```
----
+## 🎯 2026 Roadmap
 
-## 🚀 Current Goals
+| Area                       | Objective                                | Progress       |
+| -------------------------- | ---------------------------------------- | -------------- |
+| 🧠 DSA                     | Master Core Data Structures & Algorithms | 🟡 In Progress |
+| 🏆 Competitive Programming | Reach LeetCode Knight / Guardian         | 🎯 Target      |
+| 🤖 AI & ML                 | Build 3+ End-to-End AI Projects          | 🟡 In Progress |
+| 🌍 Open Source             | Contribute to Real-World Projects        | 🔄 Ongoing     |
+| 🏗️ System Design          | Learn Scalable System Architecture       | 📚 Learning    |
+| 💼 Career                  | Secure a Top SWE / AI Opportunity        | ⭐ Mission      |
 
-
-┌─────────────────────────────────────────────────────────────┐
-│                    2025 ROADMAP                              │
-├─────────────────────────────────────────────────────────────┤
-│  ✅  Master DSA — Arrays, Trees, Graphs, DP                 │
-│  🔄  Reach LeetCode Knight / Guardian                       │
-│  🔄  Build 3+ AI-powered projects                           │
-│  🔄  Contribute to Open Source projects                     │
-│  🔄  Deep dive into System Design                           │
-│  📌  Land a Top-Tier SWE / AI role                          │
-└─────────────────────────────────────────────────────────────┘
-
-
-
+```
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
