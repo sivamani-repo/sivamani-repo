@@ -26,70 +26,35 @@
 ---
 
 <!-- ABOUT ME - C++ CLASS STYLE -->
-## 🧠 About Me
+---
 
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-#include <map>
-using namespace std;
+## 👨‍💻 About Me
 
-class SoftwareEngineer {
-private:
-    string name        = "D Sivamani";
-    string role        = "Competitive Programmer | AI Builder | Software Engineer";
-    string location    = "Hyderabad, India 🇮🇳";
-    string motto       = "Building AI, software, and my future.";
+<div align="center">
 
-public:
-    vector<string> currentFocus = {
-        "Data Structures & Algorithms",
-        "Competitive Programming",
-        "Artificial Intelligence",
-        "Software Development"
-    };
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding GIF">
 
-    vector<string> learning = {
-        "Machine Learning",
-        "Deep Learning",
-        "System Design",
-        "Advanced DSA"
-    };
+</div>
 
-    vector<string> interests = {
-        "Competitive Programming",
-        "AI/ML Research",
-        "Open Source Contributions",
-        "Building Impactful Products"
-    };
+```javascript
+const sivamani = {
+    pronouns: "He/Him",
+    location: "Hyderabad, India 🇮🇳",
+    currentFocus: "Competitive Programming & AI 🚀",
+    learning: ["DSA", "Machine Learning", "System Design"],
+    interests: ["Problem Solving", "Software Development", "AI/ML"],
+    motto: "Building AI, software, and my future.",
 
-    map<string, string> links = {
-        {"LeetCode",  "https://leetcode.com/u/sivamani_08/"},
-        {"LinkedIn",  "https://linkedin.com/in/sivamani-dasari/"},
-        {"YouTube",   "https://youtube.com/@SivamaniDasari"},
-        {"X",         "https://x.com/Dsivamani08"},
-        {"Instagram", "https://instagram.com/dsivamani08/"}
-    };
-
-    void lifeRoutine() {
-        while (alive) {
-            think();
+    lifeLoop() {
+        while (true) {
+            learn();
             code();
-            compete();
             build();
             repeat();
         }
     }
 };
-
-int main() {
-    SoftwareEngineer sivamani;
-    sivamani.lifeRoutine();
-    return 0;
-}
 ```
-
 ---
 
 ## 🚀 Current Goals
