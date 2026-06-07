@@ -156,16 +156,17 @@ const sivamani = {
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivamani-repo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=9d8fcc&icon_color=9d8fcc&text_color=e0d7ff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sivamani-repo&theme=tokyonight&hide_border=true&background=0f0c29&stroke=9d8fcc&ring=9d8fcc&fire=FF6B6B&currStreakLabel=9d8fcc" alt="Streak Stats" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sivamani-repo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<br/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=sivamani-repo&theme=tokyonight&hide_border=true" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivamani-repo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=9d8fcc&text_color=e0d7ff" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivamani-repo&custom_title=Contribution%20Graph&hide_border=true&bg_color=0f0c29&color=9d8fcc&line=302b63&point=e0d7ff&area=true&area_color=9d8fcc" alt="Activity Graph" />
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivamani-repo&layout=compact&theme=tokyonight&hide_border=true" />
 
-</div>
-
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sivamani-repo&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ## 🏆 LeetCode & Competitive Programming
