@@ -51,20 +51,19 @@ const sivamani = {
 </tr>
 </table>
 
-```
 ## 🎯 2026 Roadmap
 
-| Area                       | Objective                                | Progress       |
-| -------------------------- | ---------------------------------------- | -------------- |
-| 🧠 DSA                     | Master Core Data Structures & Algorithms | 🟡 In Progress |
-| 🏆 Competitive Programming | Reach LeetCode Knight / Guardian         | 🎯 Target      |
-| 🤖 AI & ML                 | Build 3+ End-to-End AI Projects          | 🟡 In Progress |
-| 🌍 Open Source             | Contribute to Real-World Projects        | 🔄 Ongoing     |
-| 🏗️ System Design          | Learn Scalable System Architecture       | 📚 Learning    |
-| 💼 Career                  | Secure a Top SWE / AI Opportunity        | ⭐ Mission      |
+| Area | Objective | Progress |
+|------|-----------|----------|
+| 🧠 DSA | Master Core Data Structures & Algorithms | 🟡 In Progress |
+| 🏆 Competitive Programming | Reach LeetCode Knight / Guardian | 🎯 Target |
+| 🤖 AI & ML | Build 3+ End-to-End AI Projects | 🟡 In Progress |
+| 🌍 Open Source | Contribute to Real-World Projects | 🔄 Ongoing |
+| 🏗️ System Design | Learn Scalable System Architecture | 📚 Learning |
+| 💼 Career | Secure a Top SWE / AI Opportunity | ⭐ Mission |
 
-```
 <div align="center">
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 
