@@ -67,9 +67,8 @@ const sivamani = {
 │  🔄  Deep dive into System Design                           │
 │  📌  Land a Top-Tier SWE / AI role                          │
 └─────────────────────────────────────────────────────────────┘
-```
 
----
+
 
 <div align="center">
 
